@@ -11,7 +11,7 @@ Table of Contents (links to the files)
 
 
 
-Group Meeting Reports
+[Group Meeting Reports](https://github.com/zoeannp/jztc_group_project/wiki)
 
 
 Group Progress Reports
