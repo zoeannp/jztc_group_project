@@ -1,17 +1,14 @@
 # **Team JZTC**
 
 ## Group members
+~~~md
+- Joenella Hiko - CEO
+- Zoe Proudfoot - Dev
+- Tainui Weti - Dev
+- Cairo Bullen  - Dev
+~~~
 
-Joenella Hiko
-Zoe Proudfoot
-Tainui Weti
-Cairo Bullen
-
+## Table of Contents
 Table of Contents (links to the files)
-
-
-
-[Group Meeting Reports](https://github.com/zoeannp/jztc_group_project/wiki)
-
-
-Group Progress Reports
+1 [Group Meeting Reports](https://github.com/zoeannp/jztc_group_project/wiki)
+2 Group Progress Reports
