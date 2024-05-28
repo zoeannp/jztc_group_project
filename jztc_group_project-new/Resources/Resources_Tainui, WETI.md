@@ -1,0 +1,10 @@
+﻿Table 1: Resource needs for our project  
+
+<table><tr><th colspan="2" valign="top"><b>Deliverable</b> </th><th colspan="1" rowspan="1" valign="top">Resource name </th><th colspan="1" rowspan="2" valign="top">Amount of resource required in (hours) or (number of items) </th><th colspan="1" rowspan="2" valign="top">Cost $NZD</th></tr>
+<tr><td colspan="1" valign="top"><a name="_heading=h.gjdgxs"></a>Tasks </td><td colspan="1" valign="top">Description </td></tr>
+<tr><td colspan="1" valign="top">1\.</td><td colspan="1" valign="top">Planning and preparation. Determining stakeholders, roles. </td><td colspan="1" valign="top">Team meeting (staff room) </td><td colspan="1" valign="top">1 hours </td><td colspan="1" valign="top">3x$30 = $90 NZD</td></tr>
+<tr><td colspan="1" valign="top">2\. </td><td colspan="1" valign="top">Each team member work on  different aspects with the website code. Trello will be used to manage the workflow in our project.</td><td colspan="1" valign="top">Laptops, Code editor.</td><td colspan="1" valign="top">3 laptops, Code editing software. Internet Access (Cloud)</td><td colspan="1" valign="top">3x$800 = $2400NZD</td></tr>
+<tr><td colspan="1" valign="top">3\.</td><td colspan="1" valign="top">Use Git to manage control over the project and keep our work secured</td><td colspan="1" valign="top">` `GitHub</td><td colspan="1" valign="top">GitHub Local and Cloud access</td><td colspan="1" valign="top"><p>` `Free</p><p></p><p></p><p></p></td></tr>
+<tr><td colspan="1" valign="top">4\. </td><td colspan="1" valign="top">Communication. What projects have been finished and what needs fixing.</td><td colspan="1" valign="top">GitHub, Trello</td><td colspan="1" valign="top">Internet Access (Cloud)</td><td colspan="1" valign="top">Free</td></tr>
+<tr><td colspan="1" valign="top"><b>Total</b> </td><td colspan="1" valign="top"> </td><td colspan="1" valign="top"> </td><td colspan="1" valign="top"> </td><td colspan="1" valign="top"><p><b>$24900.00NZD</b></p><p></p></td></tr>
+</table>
