@@ -1,5 +1,5 @@
-# Progress Report - Iteration 1
-### This progress report serves as a comprehensive overview of our group's activities and reflections during Iteration 1 for Team JZTC..
+# Progress Report - Iteration 2
+### This progress report serves as a comprehensive overview of our group's activities and reflections during Iteration 2 for Team JZTC..
 
 ## Group Members
 - Joenella Hiko
