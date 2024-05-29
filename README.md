@@ -4,6 +4,15 @@
 ## TO DO
 ~~~md
 - Zoe, we need you to make this repo public, and add a kanban board in the "Projects" tab. ty very epic
+
+Update the Gantt chart with all tasks for iteration 3
+We need to put content into this readme and the wiki pages.
+Reference images and information using APA 
+Upload our iteration 3 progress report once that is submitted.
+Upload the user acceptance testing once it is filled out with at least 10.
+Upload the Group Meeting Report for Iteration 3
+Merge the HTML for each member 1,2,3,4
+
 ~~~
 
 ## Table of Contents
