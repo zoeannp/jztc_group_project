@@ -1,6 +1,6 @@
 # **Team JZTC**
 - This is the new repo for our group.
-- To access the old one, click on branch and change to "New". (The name was supposed to be "Old" my bad.) 
+- To access the old one, click on branch and change to "Old".
 ## TO DO
 ~~~md
 - Zoe, we need you to make this repo public, and add a kanban board in the "Projects" tab. ty very epic
