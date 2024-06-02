@@ -1,7 +1,7 @@
 # Progress Report - Iteration 1
 ### This progress report serves as a comprehensive overview of our group's activities and reflections during Iteration 1 for Team JZTC..
 
-|## Group Members
+## Group Members
 - Joenella Hiko
 - Zoe Proudfoot
 - Tainui Weti
