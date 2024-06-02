@@ -4,7 +4,7 @@
 - Our group meeting reports are .md as per requirements, they didn't do it.
 - We have a wiki while they don't
 
-#Finished
+# Finished
 - I've change the md code stuff so it looks even better
 - The links in the wiki work now
   
