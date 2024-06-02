@@ -3,3 +3,10 @@
 ## Differences
 - Our group meeting reports are .md as per requirements, they didn't do it.
 - We have a wiki while they don't
+
+#Finished
+- I've change the md code stuff so it looks even better
+- The links in the wiki work now
+  
+# To do
+- Gantt chart for iteration 3, this should outline everything.
