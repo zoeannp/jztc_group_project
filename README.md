@@ -5,7 +5,7 @@
 - We have a wiki while they don't.
 
 # Finished
-- I've change the md code stuff so its easier to understand and it looks even better.
+- I've change the md code stuff so its easier to understand and change. It looks even better.
 - The links in the wiki work now.
   
 # To do
