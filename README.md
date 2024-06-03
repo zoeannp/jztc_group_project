@@ -11,4 +11,4 @@
 # To do
 - Gantt chart for iteration 3, this should outline everything.
 - Zoe: Web pages aren't displaying properly, can you fix it please, as we can't access the settings? thanks.
-- Zoe: We need a kanban board please 
+- Zoe: Can you also add kanban board? 
