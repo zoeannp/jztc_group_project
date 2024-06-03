@@ -1,5 +1,5 @@
 # Group Meeting Report - part 4
-**Notice of Meeting and Agenda**
+**Practical project - Iteration 1**
 ~~~
 Date: 26/03/2024
 Time: 2:46 pm - 3:46 pm  
