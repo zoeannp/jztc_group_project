@@ -10,3 +10,4 @@
   
 # To do
 - Gantt chart for iteration 3, this should outline everything.
+- Zoe pages aren't displaying properly, can you fix it please, as we can't access the settings? thanks.
