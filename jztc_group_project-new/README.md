@@ -23,25 +23,25 @@ Contact
 How to install and set up the project.
 Bash
 Copy code
-# Clone the repository
+## Clone the repository
 git clone https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-ne
 
-# Navigate to the project directory
+## Navigate to the project directory
 cd repository
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Run the application
+## Run the application
 npm start
 
-# Features
+## Features
 User Authentication: Secure login and registration functionality.
 Content Management: Easy-to-use interface for adding and updating website content.
 Real-Time Collaboration: Multiple team members can work on the project simultaneously.
 Agile Workflow Integration: Supports agile methodologies with features for sprints, backlogs, and task management.
 
-# Contributing
+## Contributing
 How others can contribute to the project. 
 
 Fork the repository
@@ -50,10 +50,10 @@ Commit your changes (git commit -m 'Add some feature')
 Push to the branch (git push origin feature-branch)
 Open a pull request
 
-#License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#Contact
+## Contact
 How to contact the project maintainer.
 
 Maintainer Name - Zoe.proudfoot,eit@gmail.com
