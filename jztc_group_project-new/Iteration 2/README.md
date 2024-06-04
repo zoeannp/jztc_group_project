@@ -35,15 +35,15 @@
 - My role as the Scrum Master was to delegate tasks and group meetings for Iteration 2. I can support this by being present at meetings, communicating face-to-face, email and chat. 
 
 Tasks  included:
-- Creating the Progress Report so that each member can contribute towards the group reflection and their own contributions.
-- Communicating to the team in and out of class.
-- To ensure the resource needs table was accurate, completed and uploaded to GitHub.
+- Creating the Progress Report so that each member can contribute towards the group reflection and their contributions.
+- Communicating to the team daily and weekly at our group meetings.
+- To ensure the resource needs table and Gantt chart were created and met requirements. 
 
 ~~~
 
 ### Zoe Proudfoot
 ~~~md
-- For Iteration 2, my role was the note taker during our group meetings. I also created the team’s repository on GitHub, and invited the rest of the team members for collaboration.
+- For Iteration 2, my role was the note taker during our group meetings. I also created the team’s repository on GitHub and invited the rest of the team members for collaboration.
 ~~~
 
 ### Cairo Bullen
@@ -58,5 +58,5 @@ Tasks  included:
 [Refer to GitHub Link:](https://github.com/zoeannp/jztc_group_project) for evidence.
 In our GitHub Repository, we have provided:
 - Gantt Chart
-- Project Progress Report
-- Resource Needs Table 
+- Resource Needs Table
+- Progress report
