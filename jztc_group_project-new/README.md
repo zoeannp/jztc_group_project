@@ -24,6 +24,9 @@ How to install and set up the project: <br>
 
 **Clone the repository**  
 [git clone](https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new)
+Go select Code then copy the link to git clone 
+
+
 
 **Navigate to the project directory** <br> 
 cd repository
