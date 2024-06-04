@@ -43,6 +43,7 @@ Laptops, Microsoft Word, Google Drive
 
 ### Date of next meeting
 09/04/24
+# Time: 2.30 pm
 
 
 
