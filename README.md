@@ -12,4 +12,4 @@
 # To do
 
 - Zoe: Web pages aren't displaying properly, can you fix it please, as we can't access the settings? thanks.
-- Zoe: Can you also add kanban board? 
+
