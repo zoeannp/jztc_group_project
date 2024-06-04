@@ -20,12 +20,11 @@ This project focuses on the collaborative efforts of an agile team to create a w
 - [Contact](#Contact)
 
 ## Installation
-How to install and set up the project: \
-Bash \ 
-Copy code \
-**Clone the repository** \
-git clone  
-(https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new)
+How to install and set up the project: <br> 
+
+Bash <br> 
+**Clone the repository**  
+git clone (https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new)
 
 **Navigate to the project directory**
 cd repository
@@ -44,7 +43,7 @@ npm start
 
 ## Contributing
 
-How others can contribute to the project:
+**How others can contribute to the project:** <br> 
 
 * Fork the repository
 * Create a new branch (git checkout -b feature-branch)
@@ -53,7 +52,7 @@ How others can contribute to the project:
 * Open a pull request
 
 ## License
-This project is licensed under the MIT License - see the [License](#license) file for details.
+This project is licensed under the MIT License - see the  file for details.
 
 ## Contact
 How to contact the project maintainer.
