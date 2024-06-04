@@ -1,65 +1,30 @@
-# $${\color{lightblue}Team: JZTC}$$
+# $${\color{lightblue}Welcome \space \color{lightblue}To \space \color{orange}JZTC \space Group \space Project}$$
 
-## Group members
-~~~md
-- Joenella Hiko - CEO
-- Zoe Proudfoot - Dev
-- Tainui Weti - Dev, Tester
-- Cairo Bullen  - Dev
-~~~
-
-# $${\color{lightblue}Agile Project}$$
-## Description
-This project focuses on the agile team's collaborative efforts to create a website. The purpose is to simulate real-world agile processes and teamwork in a software development environment, enhancing collaboration, communication, and efficiency.
+||| $${\color{lightblue}EIT: Tairawhiti - JZTC}$$ |
+|--------------|--------------------|--------------|
+| $${\color{lightblue}Role}$$ |  $${\color{lightblue}Name}$$|  $${\color{lightblue}Employee \space \color{lightblue} testimonials}$$| 
+| **Project Manager:** | Joenella Hiko | “At JZTC, I'm continually impressed by the team's passion, professionalism, and unwavering commitment to excellence."|
+| **UX Researcher:**  | Tainui Weti   |"At JZTC, teamwork thrives, driving innovation and success with every project."|
+| **Application Developer:**  | Zoe Proudfoot |"The team at JZTC exemplifies professionalism, collaboration, and excellence, making every day a rewarding journey."|
+| **UI Designer:**  | Cairo Bullen  |"At JZTC, our team's blend of coffee-fueled creativity and quirky camaraderie makes every workday feel like a sitcom episode in the making!"|
 
 ## Table of Contents
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#Contact)
+1. [Stakeholder Register](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%201/JZTC%20Design%20-%20Stakeholder%20Register.md)
+2. [Personas](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%201/Personas)
+5. [Resource Requirements](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Resources)
+6. [Gantt Chart](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%202/gantt_chart.png)
+7. [Risk Register](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%203/risk_register.md)
+8. [Risk Matrix](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%203/risk_matrix.pdf)
 
-## Installation
-How to install and set up the project: <br> 
+## Group meeting reports
 
-**Clone the repository**  
-[git clone](https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new)
-Drop down arrow on Code, copy to the clipboard as per the screenshot below: <br> 
+- [Iteration 1](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%201/Group%20Meeting%20Report.md)
+- [Iteration 2](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%202/Group%20Meeting%20Report.md)
+- [Iteration 3](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%203/Group%20Meeting%20Report.md)
 
-![image](https://github.com/zoeannp/jztc_group_project/assets/161780040/f1d8e07e-2192-43ea-b764-b3eacb4c402a)
+## Group progress reports
 
-
-
-
-
-
-
-
-
-## Features
-* **User Authentication:** Secure login and registration functionality.
-* **Content Management:** Easy-to-use interface for adding and updating website content.
-* **Real-Time Collaboration:** Multiple team members can work on the project simultaneously.
-* **Agile Workflow Integration:** Supports agile methodologies with features for sprints, backlogs, and task management.
-
-## Contributing
-
-**How others can contribute to the project:** <br> 
-
-* Fork the repository
-* Create a new branch (git checkout -b feature-branch)
-* Commit your changes (git commit -m 'Add some feature')
-* Push to the branch (git push origin feature-branch)
-* Open a pull request
-
-## License
-This project is licensed under the MIT License - see the [License](https://github.com/zoeannp/jztc_group_project/blob/main/LICENSE) file for details.
-
-## Contact
-How to contact the project maintainer <br> 
-Maintainer Name: (Zoe.proudfoot.eit@gmail.com)
-
-
-
-
+* [Iteration 1](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%201/README.md)
+* [Iteration 2](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%202/README.md)
+* [Iteration 3](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%203/README.md)
 
