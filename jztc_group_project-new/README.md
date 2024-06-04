@@ -34,8 +34,7 @@ Then select Code then copy the link to git clone as per the image below: <br>
 
 
 
-**Navigate to the project directory** <br> 
-cd repository
+
 
 ## Features
 * **User Authentication:** Secure login and registration functionality.
