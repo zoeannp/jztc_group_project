@@ -10,7 +10,7 @@
 
 # Agile Project
 ## Description
-This project focuses on an agile team's collaborative efforts to create a website. The purpose is to simulate real-world agile processes and teamwork in a software development environment, enhancing collaboration, communication, and efficiency.
+This project focuses on the agile team's collaborative efforts to create a website. The purpose is to simulate real-world agile processes and teamwork in a software development environment, enhancing collaboration, communication, and efficiency.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -24,7 +24,7 @@ How to install and set up the project: <br>
 
 **Clone the repository**  
 [git clone](https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new)
-Then select Code then copy the link to git clone as per the image below: <br> 
+Then click on Code, copy to clipboard as per the image below: <br> 
 
 ![image](https://github.com/zoeannp/jztc_group_project/assets/161780040/f1d8e07e-2192-43ea-b764-b3eacb4c402a)
 
