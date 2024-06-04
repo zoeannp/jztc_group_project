@@ -29,7 +29,7 @@
 
 ### Joenella 
 ~~~md
-I was responsible for consistently communicating with and supporting the team to ensure the completion of tasks for all stages of the final handover through email, chat, or face-to-face interactions. I also created and maintained documentation for all stages to be uploaded to GitHub. Additionally, I assisted with group meeting reports for iteration 3. 
+I was responsible for consistently communicating with and supporting the team to ensure the completion of tasks for all stages of the final handover through email, chat, or face-to-face interactions. I also created and maintained documentation for all stages to be uploaded to GitHub. Additionally, I assisted with group meeting reports for iteration 3 and the readme for GitHub. 
 ~~~
 
 ### Zoe
