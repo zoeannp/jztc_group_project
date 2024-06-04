@@ -15,6 +15,7 @@
 6. [Gantt Chart](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%202/gantt_chart.png)
 7. [Risk Register](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%203/risk_register.md)
 8. [Risk Matrix](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%203/risk_matrix.pdf)
+9. [User Acceptance Testing](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%203/User%20Acceptance%20Tests.xlsx)
 
 ## Group meeting reports
 
