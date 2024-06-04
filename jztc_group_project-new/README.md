@@ -12,12 +12,12 @@
 ## Description
 This project focuses on the collaborative efforts of an agile team to create a website. The purpose is to simulate real-world agile processes and teamwork in a software development environment, enhancing collaboration, communication, and efficiency.
 
-Table of Contents
-* Installation
-* Features
-* Contributing
-* License
-* Contact
+## Table of Contents
+- [Installation](#installation)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contacts](#Contacts)
 
 ## Installation
 How to install and set up the project:
@@ -53,7 +53,7 @@ How others can contribute to the project:
 * Open a pull request
 
 ## License
-This project is licensed under the MIT License - see the MIT LICENSE file for details.
+This project is licensed under the MIT License - see the [License](#license) file for details.
 
 ## Contact
 How to contact the project maintainer.
