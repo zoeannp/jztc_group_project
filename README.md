@@ -7,8 +7,9 @@
 # Finished
 - I've change the md code stuff so its easier to understand and change. It looks even better.
 - The links in the wiki work now.
+- Gantt chart for iteration 3, this should outline everything.
   
 # To do
-- Gantt chart for iteration 3, this should outline everything.
+
 - Zoe: Web pages aren't displaying properly, can you fix it please, as we can't access the settings? thanks.
 - Zoe: Can you also add kanban board? 
