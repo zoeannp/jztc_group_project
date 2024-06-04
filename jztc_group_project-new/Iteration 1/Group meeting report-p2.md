@@ -1,4 +1,4 @@
-# Group Meeting Report - part 2
+# Group Meeting Report 2
 **Practical Project - Iteration 1**
 ~~~
 Date: 12/03/2024  
@@ -36,7 +36,7 @@ We decided to create a website for China Palace restaurant.
 |-----------------|------------------------|--------------|
 | Ideas for the website were brought forward by the group. | Zoe, Joenella, Cairo | 3:00 pm |
 | We discussed that we should do a website for China Palace. | Zoe, Joenella, Cairo | 3:00 pm |
-| We discussed the color scheme. | Zoe, Joenella, Cairo | 3:00 pm |
+| We discussed the colour scheme. | Zoe, Joenella, Cairo | 3:00 pm |
 
 ### Agenda Item 2: Discuss the Scope of the Website
 **Presenter: Joenella Hiko**
@@ -61,7 +61,7 @@ Discuss the scope of the website.
 We need to create a persona each.
 
 **Conclusions:**  
-We decided to do a persona on our personal roles or for the typical user.
+We decided to do a persona on our roles or for the typical user.
 
 **Action Items:**
 
