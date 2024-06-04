@@ -10,7 +10,7 @@
 
 # Agile Project
 ## Description
-This project focuses on the collaborative efforts of an agile team to create a website. The purpose is to simulate real-world agile processes and teamwork in a software development environment, enhancing collaboration, communication, and efficiency.
+This project focuses on an agile team's collaborative efforts to create a website. The purpose is to simulate real-world agile processes and teamwork in a software development environment, enhancing collaboration, communication, and efficiency.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -22,18 +22,11 @@ This project focuses on the collaborative efforts of an agile team to create a w
 ## Installation
 How to install and set up the project: <br> 
 
-Bash <br> 
 **Clone the repository**  
-git clone (https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new)
+[git clone](https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new)
 
-**Navigate to the project directory**
+**Navigate to the project directory** <br> 
 cd repository
-
-**Install dependencies**
-npm install
-
-**Run the application**
-npm start
 
 ## Features
 * **User Authentication:** Secure login and registration functionality.
@@ -55,8 +48,8 @@ npm start
 This project is licensed under the MIT License - see the [License](https://github.com/zoeannp/jztc_group_project/blob/main/LICENSE) file for details.
 
 ## Contact
-How to contact the project maintainer.
-Maintainer Name - (Zoe.proudfoot.eit@gmail.com)
+How to contact the project maintainer <br> 
+Maintainer Name: (Zoe.proudfoot.eit@gmail.com)
 
 
 
