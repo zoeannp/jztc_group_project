@@ -24,7 +24,8 @@ How to install and set up the project:
 Bash
 Copy code
 **Clone the repository**
-[git clone] (https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new)
+git clone 
+(https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new)
 
 **Navigate to the project directory**
 cd repository
@@ -42,6 +43,7 @@ npm start
 * **Agile Workflow Integration:** Supports agile methodologies with features for sprints, backlogs, and task management.
 
 ## Contributing
+
 How others can contribute to the project:
 
 * Fork the repository
@@ -55,7 +57,6 @@ This project is licensed under the MIT License - see the MIT LICENSE file for de
 
 ## Contact
 How to contact the project maintainer.
-
 Maintainer Name - (Zoe.proudfoot.eit@gmail.com)
 
 
