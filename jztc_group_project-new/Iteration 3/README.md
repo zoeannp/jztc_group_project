@@ -9,7 +9,7 @@
 
 ## Group Reflection
 ### Key learnings: 
-- We learned  markdown language 
+- We learned  markdown language and to upload files onto GitHub. 
 - We learned how to improve our efforts to collaborate work on our Google Drive and GitHub. 
 
 ### Challenges faced: 
