@@ -57,6 +57,6 @@ Tasks  included:
 
 [Refer to GitHub Link:](https://github.com/zoeannp/jztc_group_project) for evidence.
 In our GitHub Repository, we have provided: <br>
--[Gantt Chart](
+-[Gantt Chart](https://github.com/zoeannp/jztc_group_project/blob/main/jztc_group_project-new/Iteration%202/Gantt%20chart%20redo.png)
 - [Resource Needs Table](https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new/Resources)
 - [Progress report](https://github.com/zoeannp/jztc_group_project/edit/main/jztc_group_project-new/Iteration%202/README.md)
