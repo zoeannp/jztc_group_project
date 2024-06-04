@@ -1,8 +1,8 @@
-# Group Meeting Report - part 4
+# Group Meeting Report 4
 **Practical project - Iteration 1**
 ~~~
 Date: 26/03/2024
-Time: 2:46 pm - 3:46 pm  
+Time: 2:45 pm - 3:45 pm  
 Location: PA105  
 ~~~
 | **Sponsor:** | Anastacia Mozhaeva | **Name of Group:** | JZTC |
@@ -12,7 +12,7 @@ Location: PA105
 | **Please Bring:** | Laptop | | |
 
 ## Agenda Items
-1. What resources do we need
+1. Resources
 
 ---
 
@@ -40,3 +40,10 @@ Set up an online meeting on Zoom.
 ## Other Information
 **Resources:**  
 Laptops, Microsoft Word, Google Drive
+
+
+
+
+
+
+
