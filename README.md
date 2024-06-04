@@ -1,8 +1,3 @@
-
-![bro](https://github.com/zoeannp/jztc_group_project/assets/88637263/32ceba3a-4a0f-4f7c-bd73-88c029bd6c43)
-#### GitHub still isnt referencing the correct sub directory
-#### Sure we can use this [link](https://zoeannp.github.io/jztc_group_project/jztc_group_project-new/WebsiteApplication/Agile-main/index.html) but its not good practice
-
 # $${\color{lightblue}Team: JZTC}$$
 
 ## Group members
