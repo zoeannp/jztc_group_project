@@ -13,12 +13,19 @@
 This project focuses on the agile team's collaborative efforts to create a website. The purpose is to simulate real-world agile processes and teamwork in a software development environment, enhancing collaboration, communication, and efficiency.
 
 ## Table of Contents
-- [Installation](#installation)
 - [Features](#features)
+- [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#Contact)
 
+  
+## Features
+* **User Authentication:** Secure login and registration functionality.
+* **Content Management:** Easy-to-use interface for adding and updating website content.
+* **Real-Time Collaboration:** Multiple team members can work on the project simultaneously.
+* **Agile Workflow Integration:** Supports agile methodologies with features for sprints, backlogs, and task management.
+  
 ## Installation
 How to install and set up the project: <br> 
 
@@ -41,11 +48,7 @@ Drop down arrow on Code, copy to the clipboard as per the screenshot below: <br>
 
 
 
-## Features
-* **User Authentication:** Secure login and registration functionality.
-* **Content Management:** Easy-to-use interface for adding and updating website content.
-* **Real-Time Collaboration:** Multiple team members can work on the project simultaneously.
-* **Agile Workflow Integration:** Supports agile methodologies with features for sprints, backlogs, and task management.
+
 
 ## Contributing
 
