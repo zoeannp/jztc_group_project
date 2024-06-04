@@ -22,11 +22,16 @@ This project focuses on the agile team's collaborative efforts to create a websi
 ## Installation
 How to install and set up the project: <br> 
 
+[Working link to group GitHub repository page:](https://github.com/zoeannp/jztc_group_project) 
+
+[Working link to group readme.md documentation:](https://github.com/zoeannp/jztc_group_project/wiki) 
+
 **Clone the repository**  
 [git clone](https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new)
 Drop down arrow on Code, copy to the clipboard as per the screenshot below: <br> 
 
 ![image](https://github.com/zoeannp/jztc_group_project/assets/161780040/f1d8e07e-2192-43ea-b764-b3eacb4c402a)
+
 
 
 
