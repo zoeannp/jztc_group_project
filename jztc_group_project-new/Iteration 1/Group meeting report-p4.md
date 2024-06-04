@@ -41,6 +41,8 @@ Set up an online meeting on Zoom.
 **Resources:**  
 Laptops, Microsoft Word, Google Drive
 
+### Date of next meeting
+09/04/24
 
 
 
