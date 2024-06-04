@@ -43,7 +43,7 @@ Tasks  included:
 
 ### Zoe Proudfoot
 ~~~md
-- For Iteration 2, my role was the note taker during our group meetings. I also created the team’s repository on GitHub and invited the rest of the team members for collaboration.
+- For Iteration 2, my role was the note taker during our group meetings. I also created the team’s repository on GitHub and invited the rest of the team members to collaborate.
 ~~~
 
 ### Cairo Bullen
