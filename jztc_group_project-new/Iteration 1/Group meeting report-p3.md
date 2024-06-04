@@ -1,4 +1,4 @@
-# Group Meeting Report - part 3
+# Group Meeting Report 3
 **Practical Project - Iteration 1**
 ~~~
 Date: 19/03/2024  
