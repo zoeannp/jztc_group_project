@@ -1,4 +1,4 @@
-# **Team JZTC**
+# $${\color{lightblue}Team: JZTC}$$
 
 ## Group members
 ~~~md
@@ -8,7 +8,7 @@
 - Cairo Bullen  - Dev
 ~~~
 
-# Agile Project
+# $${\color{lightblue}Agile Project}$$
 ## Description
 This project focuses on the agile team's collaborative efforts to create a website. The purpose is to simulate real-world agile processes and teamwork in a software development environment, enhancing collaboration, communication, and efficiency.
 
