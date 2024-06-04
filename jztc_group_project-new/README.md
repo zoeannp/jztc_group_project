@@ -20,11 +20,11 @@ This project focuses on the collaborative efforts of an agile team to create a w
 - [Contact](#Contact)
 
 ## Installation
-How to install and set up the project:
-Bash
-Copy code
-**Clone the repository**
-git clone 
+How to install and set up the project: \
+Bash \ 
+Copy code \
+**Clone the repository** \
+git clone  
 (https://github.com/zoeannp/jztc_group_project/tree/main/jztc_group_project-new)
 
 **Navigate to the project directory**
