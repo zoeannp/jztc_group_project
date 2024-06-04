@@ -41,9 +41,9 @@ Set up an online meeting on Zoom.
 **Resources:**  
 Laptops, Microsoft Word, Google Drive
 
-### Date of next meeting
-09/04/24
-# Time: 2.30 pm
+## Date of next meeting
+09/04/24 <br>
+Time: 2.30 pm
 
 
 
