@@ -17,7 +17,7 @@ This project focuses on the collaborative efforts of an agile team to create a w
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contacts](#Contacts)
+- [Contact](#Contact)
 
 ## Installation
 How to install and set up the project:
