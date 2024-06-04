@@ -29,7 +29,7 @@
 
 ### Joenella 
 ~~~md
-I was responsible for consistently communicating with and supporting the team to ensure the completion of tasks for all stages of the final handover through email, chat, or face-to-face interactions. I also created and maintained documentation for all stages to be uploaded to GitHub. Additionally, I assisted with group meeting reports for iteration 3 and the readme for GitHub. 
+I was responsible for consistently communicating with and supporting the team to ensure the completion of tasks for all stages of the final handover through email, chat, or face-to-face interactions. I also created and maintained documentation for all stages in our Google drive to be uploaded to GitHub. Additionally, I assisted with group meeting reports and created the readme in GitHub. 
 ~~~
 
 ### Zoe
@@ -40,13 +40,13 @@ Created a Risk register for the team.
 
 ### Tainui
 ~~~md
-Created the Wiki and cleaned the repository by creating a new repository. I converted all the group meeting reports ro Markdown and added a reference in our wiki.
+Created the Wiki and cleaned the repository by creating a new repository. I converted all the group meeting reports to markdown and added content and reference in our wiki.
 ~~~
 
 ### Cairo
 ~~~md
-Contributed to the resource needs table for iteration 2 and uploaded some files to the group’s repository on GitHub. 
-I created a risk matrix. 
+I contributed to the resource needs table for iteration 2 and uploaded some files to the group’s repository on GitHub. 
+I created a risk matrix and reviewed the User Acceptance Testing. 
 ~~~
 
 [Refer to the GitHub Link](https://github.com/zoeannp/jztc_group_project) for evidence.
