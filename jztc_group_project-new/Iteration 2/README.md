@@ -30,7 +30,7 @@
 
 ## Individual Contributions
 
-### Joenella 
+### Joenella Hiko
 ~~~md
 - My role as the Scrum Master was to delegate tasks and group meetings for Iteration 2. I can support this by being present at meetings, communicating face-to-face, email and chat. 
 
@@ -41,16 +41,16 @@ Tasks  included:
 
 ~~~
 
-### Zoe
+### Zoe Proudfoot
 ~~~md
 - For Iteration 2, my role was the note taker during our group meetings. I also created the team’s repository on GitHub, and invited the rest of the team members for collaboration.
 ~~~
 
-### Cairo
+### Cairo Bullen
 ~~~md
 - I contributed to the resource needs table. 
 ~~~
-### Tainui
+### Tainui Weti
 ~~~md
 - I developed a comprehensive Gantt chart to outline the project's timeline and tasks, ensuring clear planning and effective management.
 ~~~
