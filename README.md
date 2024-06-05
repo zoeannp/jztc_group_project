@@ -2,10 +2,11 @@
 
 ## Group members
 ~~~md
-- Joenella Hiko - CEO
-- Zoe Proudfoot - Dev
-- Tainui Weti - Dev, Tester
-- Cairo Bullen  - Dev
+Joenella Hiko [Project Manager]
+Zoe Proudfoot [Application Developer]
+Tainui Weti [UX Researcher]
+Cairo Bullen [UI Designer]
+
 ~~~
 
 # $${\color{lightblue}Agile Project}$$
